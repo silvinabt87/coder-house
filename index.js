@@ -15,7 +15,6 @@ class Usuario {
     return `Mascotas nombre: ${this.mascotas}`;
   }
   countMascotas() {
-    console.log(this.mascotas.length);
     return `Mascotas numero: ${this.mascotas.length}`;
   }
 

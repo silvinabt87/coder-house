@@ -1,0 +1,23 @@
+{
+  "name": "coder-house",
+  "version": "1.0.0",
+  "description": "Repository for backend dev course tasks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silvinabt87/coder-house.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/silvinabt87/coder-house/issues"
+  },
+  "homepage": "https://github.com/silvinabt87/coder-house#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
