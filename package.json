@@ -19,5 +19,6 @@
   "homepage": "https://github.com/silvinabt87/coder-house#readme",
   "dependencies": {
     "moment": "^2.29.1"
-  }
+  },
+  "devDependencies": {}
 }
